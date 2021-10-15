@@ -39,7 +39,7 @@ rm -f ~/.local/share/nautilus-python/extensions/hyper-nautilus.py
 
 # Download and install the extension
 echo "Downloading newest version..."
-wget --show-progress -q -O ~/.local/share/nautilus-python/extensions/hyper-nautilus.py hyper-nautilus.py
+wget --show-progress -q -O ~/.local/share/nautilus-python/extensions/hyper-nautilus.py https://raw.githubusercontent.com/AndreOneti/hyper-nautilus/main/hyper-nautilus.py
 
 # Restart nautilus
 echo "Restarting nautilus..."

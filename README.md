@@ -5,7 +5,7 @@ This repo provides a hyper extension for Nautilus.
 ## Install Extension
 
 ```
-wget -qO- | bash
+wget -qO- https://raw.githubusercontent.com/AndreOneti/hyper-nautilus/main/install.sh | bash
 ```
 
 ## Uninstall Extension
